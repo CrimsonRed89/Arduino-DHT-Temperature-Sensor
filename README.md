@@ -3,11 +3,11 @@
 This project showcases the use of an Arduino and a DHT11 sensor for real-time IoT applications. It includes various example codes for testing the sensor, connecting to the Blynk IoT platform, and sending data to ThingSpeak. The project is designed to be customizable and serves as a foundational structure for more complex IoT solutions.
 
 ## Features
-### Sensor Testing: Basic code to test the functionality of the DHT11 sensor.
-### Blynk IoT Integration: Example code to connect the DHT11 sensor data to the Blynk IoT platform for remote monitoring.
-### ThingSpeak Integration: Example code to send sensor data to ThingSpeak for data logging and visualization.
-### Real-Time Data: Capture and transmit real-time sensor data for IoT applications.
-### Customizable: Easily modify the code to suit different use cases and expand functionality.
+Sensor Testing: Basic code to test the functionality of the DHT11 sensor.
+Blynk IoT Integration: Example code to connect the DHT11 sensor data to the Blynk IoT platform for remote monitoring.
+ThingSpeak Integration: Example code to send sensor data to ThingSpeak for data logging and visualization.
+Real-Time Data: Capture and transmit real-time sensor data for IoT applications.
+Customizable: Easily modify the code to suit different use cases and expand functionality.
 
 ## Prerequisites :
 Arduino board (e.g., Uno, Nano)
